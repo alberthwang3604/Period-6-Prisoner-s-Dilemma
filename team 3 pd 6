@@ -360,10 +360,10 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
     ######
     ######
-    #
+    # Catherine Horkay
     elif player == 9:
         if getting_team_name:
-            return 'loyal vengeful'
+            return 'Catherine Horkay, ultra loyal'
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
